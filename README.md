@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @flexshape-bartas
+- 👀 I’m interested in using AI for programming
+- 🌱 I’m currently learning Scala
+- ⚡ Fun fact: I write fiction books
